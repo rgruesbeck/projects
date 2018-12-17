@@ -1,8 +1,10 @@
 ## Web
 ### `multibook`
-Searchable jazz lead sheets webapp.
+Simple app for Jazz lead sheets, loading images from the Archive, and index from IPFS.
 
-`IPFS, React, Archive.org`
+Waiting for more IPFS browser node support to enable hosting/pinning images from browsers.
+
+`React, Archive.org, IPFS`
 
 <div align="center">
 		<br/>
@@ -18,8 +20,10 @@ Searchable jazz lead sheets webapp.
 [source](https://github.com/rgruesbeck/multibook)
 
 ### `imageHorde`
-Content addressable image server with LevelDB and IPFS.
+Content addressable image server.
+
 Uploaded images are stored on disk and on the IPFS network.
+
 Images are available by hash.
 
 `Node, LevelDB, IPFS`
@@ -56,6 +60,7 @@ Generate html invoices from .org files containing org-clock entries.
 
 ``
   $ org2invoice timelog.org > invoice.html
+
   $ pandoc invoice.html -o invoice.pdf
 ``
 
