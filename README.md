@@ -1,6 +1,7 @@
 ## Web
 ### `multibook`
 Searchable jazz lead sheets webapp.
+
 `IPFS, React, Archive.org`
 
 <div align="center">
@@ -21,11 +22,14 @@ Content addressable image server with LevelDB and IPFS.
 Uploaded images are stored on disk and on the IPFS network.
 Images are available by hash.
 
+`Node, LevelDB, IPFS`
+
 [source](https://github.com/rgruesbeck/imgHorde)
 
 ### `spaceblox`
 Prototype webclient for space management.
-React, SVG, Leaflet.
+
+`React, SVG, Leaflet`
 
 <div align="center">
 		<br/>
@@ -38,6 +42,7 @@ React, SVG, Leaflet.
 
 ### `arts council napa valley`
 Website for arts non-profit with artist's profile feature.
+
 `Ruby on Rails`
 
 [link](https://www.artscouncilnapavalley.org/)
@@ -46,6 +51,8 @@ Website for arts non-profit with artist's profile feature.
 
 ### `org2invoice`
 Generate html invoices from .org files containing org-clock entries.
+
+`Node`
 
 ``
   $ org2invoice timelog.org > invoice.html
@@ -57,7 +64,10 @@ Generate html invoices from .org files containing org-clock entries.
 
 ### `manual wallet`
 Generate a new bitcoin address from physical coin tosses.
+
 Keeps track of coin tosses then prints public key, private key, and mnemonic after 256 tosses.
+
+`Bash, Libbitcoin`
 
 [source](https://gist.github.com/rgruesbeck/d75fc0f054f42489610e6824acef5358)
 
@@ -65,6 +75,8 @@ Keeps track of coin tosses then prints public key, private key, and mnemonic aft
 A handy tmux wrapper.
 
 Attach to running sessions, creat new sessions, and spin up templates by name.
+
+`Bash, Tmux, Teamocil`
 
 <div align="center">
 		<br/>
@@ -81,11 +93,15 @@ Attach to running sessions, creat new sessions, and spin up templates by name.
 Script for creating text searchable pdfs from image files.
 I wrote this script for a neighborhood group who needed better access public records which were only available to read in the city offices. The workaround was to take digital photographs and use this script to generate pdfs with OCR making a text searchable trove of documents playing a part in the group successfully forcing a developer to build more parking space in a new residential building. 
 
+`Bash, Imagemagick`
+
 [source](https://github.com/rgruesbeck/publicRecordMagick)
 
 ## Containers
 
 ### `trezorfox`
 Access trezor from a containerized deamon and browser.
+
+`Docker`
 
 [source](https://github.com/rgruesbeck/trezorfox)
