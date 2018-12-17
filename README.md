@@ -29,7 +29,7 @@ Images are available by hash.
 ### `spaceblox`
 Prototype webclient for space management.
 
-`React, SVG, Leaflet`
+`React, SVG, Leaflet, Node`
 
 <div align="center">
 		<br/>
