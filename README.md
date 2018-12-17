@@ -3,7 +3,7 @@
 <div align="center">
 		<br/>
 			<a href="">
-				<img src="https://github.com/champloohq/hyper-pokemon/blob/master/media/poketab.gif" alt="Hyper Pokemon - Poketab" width="80%">
+				<img src="https://github.com/rgruesbeck/projects/blob/master/media/mux.gif" alt="Hyper Pokemon - Poketab" width="80%">
 			</a>
 		<br/>
 		<br/>
