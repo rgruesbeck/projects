@@ -1,5 +1,5 @@
 ## Web
-### `Multibook`
+### `multibook`
 <div align="center">
 		<br/>
 			<a href="">
@@ -10,37 +10,40 @@
 </div>
 
 [multibook.rocks](http://multibook.rocks/)
-[repo](https://github.com/rgruesbeck/multibook)
+
+[source](https://github.com/rgruesbeck/multibook)
 
 ### `imageHorde`
 Content addressable image server with LevelDB and IPFS.
 Uploaded images are stored on disk and on the IPFS network.
 Images are available by hash.
-[repo]()
 
-## `Spaceblox`
-[repo]()
+[source](https://github.com/rgruesbeck/imgHorde)
 
-## go server
-[repo]()
-
-## `eldorado arts`
-stripe
-[repo]()
+## `spaceblox`
 
 ## `arts council napa`
-Website for arts non-profit.
+Website for arts non-profit with artist's profile feature.
+
 [artscouncilnapavalley](https://www.artscouncilnapavalley.org/)
-[repo]()
+
+## `eldorado arts`
+Website for arts non-profit including
+
 
 ## CLI
 
 ### `org2invoice`
-https://github.com/rgruesbeck/org2invoice
+Generate html invoices from .org files containing org-clock entries.
+
+``sh
+  org2invoice timelog.org > invoice.html
+``
+[source](https://github.com/rgruesbeck/org2invoice)
 
 ### `coldcoin`
-Generate a new bitcoin address from coinflips
-https://gist.github.com/rgruesbeck/d75fc0f054f42489610e6824acef5358
+Generate a new bitcoin address from coinflips.
+[source](https://gist.github.com/rgruesbeck/d75fc0f054f42489610e6824acef5358)
 
 ### `mux`
 [A handy tmux wrapper.](https://gist.github.com/rgruesbeck/ead07be89279027bc17029d672d47c7e)
@@ -48,12 +51,12 @@ https://gist.github.com/rgruesbeck/d75fc0f054f42489610e6824acef5358
 Attach to running sessions, creat new sessions, and spin up templates by name.
 
 ### `public record magick`
-[repo](https://github.com/rgruesbeck/publicRecordMagick)
+[source](https://github.com/rgruesbeck/publicRecordMagick)
 
 ## Containers
 
 ### `trezorfox`
-[repo](https://github.com/rgruesbeck/publicRecordMagick)
+[source](https://github.com/rgruesbeck/publicRecordMagick)
 
 ### `pyside development env`
-[repo](https://github.com/rgruesbeck/publicRecordMagick)
+[source](https://github.com/rgruesbeck/publicRecordMagick)
