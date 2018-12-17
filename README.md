@@ -1,18 +1,18 @@
 ## Web
 ### `multibook`
 Searchable jazz lead sheets webapp.
-Built with IPFS, React, Archive.org
+`IPFS, React, Archive.org`
 
 <div align="center">
 		<br/>
-			<a href="">
+			<a href="http://multibook.rocks/">
 				<img src="https://github.com/rgruesbeck/projects/blob/master/media/mb1.gif" alt="multibook" width="80%">
 			</a>
 		<br/>
 		<br/>
 </div>
 
-[multibook.rocks](http://multibook.rocks/)
+[link](http://multibook.rocks/)
 
 [source](https://github.com/rgruesbeck/multibook)
 
@@ -38,9 +38,9 @@ React, SVG, Leaflet.
 
 ### `arts council napa valley`
 Website for arts non-profit with artist's profile feature.
-Ruby on Rails
+`Ruby on Rails`
 
-[artscouncilnapavalley](https://www.artscouncilnapavalley.org/)
+[link](https://www.artscouncilnapavalley.org/)
 
 ## CLI
 
