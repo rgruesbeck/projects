@@ -22,22 +22,18 @@ Images are available by hash.
 
 ## `spaceblox`
 
-## `arts council napa`
+## `arts council napa valley`
 Website for arts non-profit with artist's profile feature.
 
 [artscouncilnapavalley](https://www.artscouncilnapavalley.org/)
-
-## `eldorado arts`
-Website for arts non-profit including
-
 
 ## CLI
 
 ### `org2invoice`
 Generate html invoices from .org files containing org-clock entries.
 
-``sh
-  org2invoice timelog.org > invoice.html
+``
+  $ org2invoice timelog.org > invoice.html
 ``
 [source](https://github.com/rgruesbeck/org2invoice)
 
