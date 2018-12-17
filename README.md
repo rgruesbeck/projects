@@ -58,11 +58,13 @@ Generate html invoices from .org files containing org-clock entries.
 ``
   $ org2invoice timelog.org > invoice.html
 ``
+
 ``
   $ pandoc invoice.html -o invoice.pdf
 ``
 
 [npm](https://www.npmjs.com/package/org2invoice)
+
 [source](https://github.com/rgruesbeck/org2invoice)
 
 ### `manual wallet`
