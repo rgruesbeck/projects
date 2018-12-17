@@ -21,7 +21,7 @@ https://github.com/rgruesbeck/org2invoice
 ### coldcoin
 generate a new bitcoin address from coinflips
 https://gist.github.com/rgruesbeck/d75fc0f054f42489610e6824acef5358
-### mux
+### `mux`
 a handy tmux wrapper. attach to running sessions, creat new sessions, and spin up templates by name.
 <div align="center">
 		<br/>
