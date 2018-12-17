@@ -1,7 +1,6 @@
 ## Web
 ### `multibook`
-Simple app for Jazz lead sheets, loading images from the Archive, and index from IPFS.
-Plans for hosting/pinning images from browsers when IPFS browser nodes have more support...
+Simple app for Jazz lead sheets, loading images from the Archive.
 
 `React, Archive.org, IPFS`
 
