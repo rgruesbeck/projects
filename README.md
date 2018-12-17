@@ -24,7 +24,8 @@ Images are available by hash.
 [source](https://github.com/rgruesbeck/imgHorde)
 
 ### `spaceblox`
-Prototype webclient for mapping floorplans and managing space.
+Prototype webclient for space management.
+React, SVG, Leaflet.
 
 <div align="center">
 		<br/>
@@ -37,6 +38,7 @@ Prototype webclient for mapping floorplans and managing space.
 
 ### `arts council napa valley`
 Website for arts non-profit with artist's profile feature.
+Ruby on Rails
 
 [artscouncilnapavalley](https://www.artscouncilnapavalley.org/)
 
@@ -47,12 +49,15 @@ Generate html invoices from .org files containing org-clock entries.
 
 ``
   $ org2invoice timelog.org > invoice.html
+  $ pandoc invoice.html -o invoice.pdf
 ``
 
+[npm](https://www.npmjs.com/package/org2invoice)
 [source](https://github.com/rgruesbeck/org2invoice)
 
-### `coldcoin`
-Generate a new bitcoin address from coinflips.
+### `manual wallet`
+Generate a new bitcoin address from physical coin tosses.
+Keeps track of coin tosses then prints public key, private key, and mnemonic after 256 tosses.
 
 [source](https://gist.github.com/rgruesbeck/d75fc0f054f42489610e6824acef5358)
 
@@ -81,4 +86,6 @@ I wrote this script for a neighborhood group who needed better access public rec
 ## Containers
 
 ### `trezorfox`
-[source]()
+Access trezor from a containerized deamon and browser.
+
+[source](https://github.com/rgruesbeck/trezorfox)
