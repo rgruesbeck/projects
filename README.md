@@ -1,8 +1,7 @@
 ## Web
 ### `multibook`
 Simple app for Jazz lead sheets, loading images from the Archive, and index from IPFS.
-
-Waiting for more IPFS browser node support to enable hosting/pinning images from browsers.
+Plans for hosting/pinning images from browsers when IPFS browser nodes have more support...
 
 `React, Archive.org, IPFS`
 
@@ -21,9 +20,7 @@ Waiting for more IPFS browser node support to enable hosting/pinning images from
 
 ### `imageHorde`
 Content addressable image server.
-
-Uploaded images are stored on disk and on the IPFS network.
-
+Uploaded images are stored on disk and on IPFS.
 Images are available by hash.
 
 `Node, LevelDB, IPFS`
@@ -60,7 +57,8 @@ Generate html invoices from .org files containing org-clock entries.
 
 ``
   $ org2invoice timelog.org > invoice.html
-
+``
+``
   $ pandoc invoice.html -o invoice.pdf
 ``
 
@@ -96,7 +94,7 @@ Attach to running sessions, creat new sessions, and spin up templates by name.
 
 ### `public record magick`
 Script for creating text searchable pdfs from image files.
-I wrote this script for a neighborhood group who needed better access public records which were only available to read in the city offices. The workaround was to take digital photographs and use this script to generate pdfs with OCR making a text searchable trove of documents playing a part in the group successfully forcing a developer to build more parking space in a new residential building. 
+I wrote this script for a friend's neighborhood group who needed better access to  public records which were only available to read in the city offices. The workaround was to take digital photographs and use this script to generate pdfs with OCR making a text searchable trove of documents playing a part in the group successfully forcing a developer to build more parking space in a new residential building. 
 
 `Bash, Imagemagick`
 
