@@ -1,3 +1,42 @@
+## Games
+
+### `Tetris`
+Customizable clone of Tetris.
+
+[link](https://github.com/rgruesbeck/tetris)
+
+### `OMG Slice`
+Hyper casual slicing game.
+
+[link](https://github.com/rgruesbeck/omgslice)
+
+## NPM Packages
+
+### `partition2d`
+Super simple class for partitioning 2D games. Builtin collision detection.
+
+[link](https://www.npmjs.com/package/partition2d)
+
+### `game-asset-loader`
+Game asset loader for HTML5 games with gracefull fallbacks.
+
+[link](https://www.npmjs.com/package/game-asset-loader)
+
+### `unlock-audio-context`
+Unlocking web audio context on mobile and iOS devices.
+
+[link](https://www.npmjs.com/package/unlock-audio-context)
+
+### `prevent-parent`
+Prevent keydown events from reaching the parent page for iframed pages. Useful for games that use arrow keys for input and are displayed on a gallery page.
+
+[link](https://www.npmjs.com/package/prevent-parent)
+
+### `on-swipe`
+Adds a swipe event that reports direction, velocity, distance, and duration of the swipe.
+
+[link](https://www.npmjs.com/package/on-swipe)
+
 ## Web
 ### `multibook`
 Simple app for Jazz lead sheets, loading images from the Archive.
@@ -45,8 +84,6 @@ Website for arts non-profit with artist's profile feature.
 
 `Ruby on Rails`
 
-[link](https://www.artscouncilnapavalley.org/)
-
 ## CLI
 
 ### `org2invoice`
@@ -65,15 +102,6 @@ Generate html invoices from .org files containing org-clock entries.
 [npm](https://www.npmjs.com/package/org2invoice)
 
 [source](https://github.com/rgruesbeck/org2invoice)
-
-### `manual wallet`
-Generate a new bitcoin address from physical coin tosses.
-
-Keeps track of coin tosses then prints public key, private key, and mnemonic after 256 tosses.
-
-`Bash, Libbitcoin`
-
-[source](https://gist.github.com/rgruesbeck/d75fc0f054f42489610e6824acef5358)
 
 ### `mux`
 A handy tmux wrapper.
@@ -100,12 +128,3 @@ I wrote this script for a friend's neighborhood group who needed better access t
 `Bash, Imagemagick`
 
 [source](https://github.com/rgruesbeck/publicRecordMagick)
-
-## Containers
-
-### `trezorfox`
-Access trezor from a containerized deamon and browser.
-
-`Docker`
-
-[source](https://github.com/rgruesbeck/trezorfox)
