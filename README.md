@@ -6,12 +6,12 @@ Tetris clone.
 `Vanilla JS`
 
 <div align="center">
-	<iframe id="tetris"
-		title="Tetris"
-		width="450"
-		height="600"
-		src="https://frontend-97978463-5a14-452c-9308-211b6903b40e.koji-apps.com">
-	</iframe>
+		<br/>
+			<a href="https://frontend-97978463-5a14-452c-9308-211b6903b40e.koji-apps.com">
+				<img src="https://github.com/rgruesbeck/projects/blob/master/media/tetris.gif" alt="multibook" width="80%">
+			</a>
+		<br/>
+		<br/>
 </div>
 
 [source](https://github.com/rgruesbeck/tetris)
@@ -22,12 +22,12 @@ Ski clone
 `Vanilla JS`
 
 <div align="center">
-	<iframe id="ski"
-		title="Ski"
-		width="450"
-		height="600"
-		src="https://frontend-136bcc54-d0f5-4618-8ba9-3f771afe878b.koji-apps.com">
-	</iframe>
+		<br/>
+			<a href="https://frontend-136bcc54-d0f5-4618-8ba9-3f771afe878b.koji-apps.com">
+				<img src="https://github.com/rgruesbeck/projects/blob/master/media/ski.gif" alt="multibook" width="80%">
+			</a>
+		<br/>
+		<br/>
 </div>
 
 [source](https://github.com/rgruesbeck/ski)
@@ -37,14 +37,13 @@ Hyper casual slicing game. (P5 webGL rendering currently has some issue with new
 
 `P5`
 
-
 <div align="center">
-	<iframe id="omgslice"
-		title="OMG Slice"
-		width="450"
-		height="600"
-		src="https://frontend-cc5d23f2-4abc-495a-b6d3-a68b465bd8a5.koji-apps.com/">
-	</iframe>
+		<br/>
+			<a href="https://frontend-cc5d23f2-4abc-495a-b6d3-a68b465bd8a5.koji-apps.com">
+				<img src="https://github.com/rgruesbeck/projects/blob/master/media/omgslice.gif" alt="multibook" width="80%">
+			</a>
+		<br/>
+		<br/>
 </div>
 
 [source](https://github.com/rgruesbeck/omgslice)
