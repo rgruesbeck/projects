@@ -60,6 +60,18 @@ Game asset loader for HTML5 games with gracefull fallbacks.
 
 [link](https://www.npmjs.com/package/game-asset-loader)
 
+### `arclib-sprite`
+A flexible base sprite for use in browser games.
+Creating multiple sprites returns an object-pool for easily recycling sprites and reducing garbage collection.
+Attach arbitrary render methods to sprites. All sprite methods are chain-able.
+
+[link](https://www.npmjs.com/package/arclib-sprite)
+
+### `arclib-overlay`
+A simple overlay for use in browser games.
+
+[link](https://www.npmjs.com/package/arclib-overlay)
+
 ### `unlock-audio-context`
 Unlocking web audio context on mobile and iOS devices.
 
